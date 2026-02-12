@@ -54,7 +54,7 @@ This repository serves as the **documentation hub** for the Cybersecurity Labs p
 
 <div align="center">
 
-### <img src="https://api.iconify.design/mdi:link-variant.svg?color=%233b82f6" width="20" height="20" style="vertical-align: middle;"/> **[→ Access All Security Labs](https://github.com/cybersecuritylabs)**
+### <img src="https://api.iconify.design/mdi:link-variant.svg?color=%233b82f6" width="20" height="20" style="vertical-align: middle;"/> **[→ Access All Security Labs](https://github.com/orgs/cybersecuritylabs/repositories)**
 
 </div>
 
@@ -172,7 +172,7 @@ Labs are built using modern, industry-standard technologies:
 
 ### <img src="https://api.iconify.design/mdi:alpha.svg?color=%2310b981" width="20" height="20" style="vertical-align: middle;"/> Adherence to AI Challenge Rules
 
-This project strictly follows the **[ai-will-replace-developers challenge rules](https://github.com/ai-will-replace-developers)**:
+This project strictly follows the **[ai-will-replace-developers challenge rules](https://github.com/unrealsrabon/ai-will-replace-developers/blob/main/RULES.md)**:
 
 - <img src="https://api.iconify.design/mdi:check-circle.svg?color=%2310b981" width="16" height="16" style="vertical-align: middle;"/> **100% AI-generated code** — Every line written by AI
 - <img src="https://api.iconify.design/mdi:check-circle.svg?color=%2310b981" width="16" height="16" style="vertical-align: middle;"/> **No manual coding** — Human provides only prompts and requirements
@@ -185,7 +185,7 @@ This project strictly follows the **[ai-will-replace-developers challenge rules]
 
 ### <img src="https://api.iconify.design/mdi:flask.svg?color=%23e74c3c" width="20" height="20" style="vertical-align: middle;"/> Access the Labs
 
-Visit the **[Cybersecurity Labs Organization](https://github.com/cybersecuritylabs)** to explore all available vulnerable applications and scenarios.
+Visit the **[Cybersecurity Labs Organization](https://github.com/orgs/cybersecuritylabs/repositories)** to explore all available vulnerable applications and scenarios.
 
 ### <img src="https://api.iconify.design/mdi:book-open-variant.svg?color=%233b82f6" width="20" height="20" style="vertical-align: middle;"/> For Security Professionals
 
@@ -249,9 +249,9 @@ This project demonstrates that AI can:
 
 ### <img src="https://api.iconify.design/mdi:file-document.svg?color=%233b82f6" width="18" height="18" style="vertical-align: middle;"/> Documentation
 
-- **[MANIFESTO.md](MANIFESTO.md)** — Project philosophy
-- **[RULES.md](RULES.md)** — AI challenge rules
-- **[FAQ.md](FAQ.md)** — Common questions
+- **[MANIFESTO.md](https://github.com/unrealsrabon/ai-will-replace-developers/blob/main/MANIFESTO.md)** — Project philosophy
+- **[RULES.md](https://github.com/unrealsrabon/ai-will-replace-developers/blob/main/RULES.md)** — AI challenge rules
+- **[FAQ.md](https://github.com/unrealsrabon/ai-will-replace-developers/blob/main/FAQ.md)** — Common questions
 
 </td>
 </tr>
