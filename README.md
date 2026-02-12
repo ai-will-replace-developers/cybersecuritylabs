@@ -90,7 +90,7 @@ Designed for security professionals, penetration testers, and cybersecurity stud
 
 ## <img src="https://api.iconify.design/mdi:security.svg?color=%23e74c3c" width="24" height="24" style="vertical-align: middle;"/> Vulnerability Categories
 
-The labs cover a comprehensive range of security vulnerabilities including:
+The labs cover (will cover) a comprehensive range of security vulnerabilities including:
 
 <table>
 <tr>
