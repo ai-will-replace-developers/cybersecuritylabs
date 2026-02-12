@@ -297,7 +297,7 @@ This project showcases:
 
 </div>
 
-### **[CONNECT WITH ME ON LINKEDIN →](https://www.linkedin.com/in/your-linkedin-profile)**
+### **[CONNECT WITH ME ON LINKEDIN →](https://www.linkedin.com/in/ shakilahmed10)**
 
 *Let's see what AI can build for you.*
 
