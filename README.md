@@ -283,13 +283,13 @@ This project showcases:
 
 <div align="center">
 
-### <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%23e74c3c" width="24" height="24" style="vertical-align: middle;"/> **[Explore All Security Labs →](https://github.com/cybersecuritylabs)**
+### <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%23e74c3c" width="24" height="24" style="vertical-align: middle;"/> **[Explore All Security Labs →](https://github.com/orgs/cybersecuritylabs/repositories)**
 
 <p>
 <em>Building the future of cybersecurity education, one AI-generated vulnerability at a time.</em>
 </p>
 
-**Part of the [AI Will Replace Developers](https://github.com/ai-will-replace-developers) Initiative**
+**Part of the [AI Will Replace Developers](https://github.com/unrealsrabon/ai-will-replace-developers) Initiative**
 
 ---
 
