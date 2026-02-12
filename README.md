@@ -6,7 +6,7 @@
 ### *Production-Grade Vulnerable Applications for Security Professionals*
 
 <p align="center">
-  <strong>Part of the <a href="https://github.com/ai-will-replace-developers">AI Will Replace Developers</a> Challenge</strong>
+  <strong>Part of the <a href="https://github.com/unrealsrabon/ai-will-replace-developers">AI Will Replace Developers</a> Challenge</strong>
 </p>
 
 <p align="center">
